@@ -2,7 +2,9 @@
 VRTemplate for Unreal Engine.  
 Goals achieved with this project:  
 Created a blank Unreal project and configured it for Meta Quest 3 development.  
-Created a VRpawn class and implemented common VR character controller movement to learn the basics of interacting in VR using Unreal Blueprints.   
+Created a VRpawn class and implemented common VR character controller movement 
+Covered the basics of interacting in VR using Unreal Blueprints.   
+Have a template for further VR development.   
 
 Features implemented included:  
 Teleportation  
